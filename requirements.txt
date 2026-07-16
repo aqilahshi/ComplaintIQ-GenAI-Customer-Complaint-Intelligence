@@ -1,0 +1,8 @@
+pandas==2.2.2
+matplotlib
+gradio
+transformers
+accelerate
+bitsandbytes
+sentencepiece
+torch
